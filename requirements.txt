@@ -1,0 +1,12 @@
+# Deep Learning & Neural Networks
+torch>=2.0.0
+
+# Mathematics & Matrix Operations
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Visualization
+matplotlib>=3.7.0
+
+# (Optional but recommended for long RL training loops)
+tqdm>=4.65.0
